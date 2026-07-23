@@ -4,6 +4,6 @@
   "requested_date": "20260801",
   "venue_code": "INPR",
   "venue_label": "INOX: LUXE Phoenix Market City, Velachery",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/the-odyssey/buytickets/ET00480917/20260801",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/the-odyssey/buytickets/ET00480917/{date}",
   "min_references": 10
 }
